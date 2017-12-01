@@ -81,5 +81,25 @@
 }
 
 .a1,.a2,.a3,.a4 {
-  border: 2px white solid;
+  border: 10px white solid;
+}
+
+.greenlilpics {
+  background-color: #ABE188;
+  margin-bottom: 0;
+  margin-bottom: 0;
+  padding-top: 90px;
+
+}
+
+.pictxt {
+  font-size: 50px;
+  color:#fff;
+  text-align: center;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+.uno,.dos,.tres{
+  filter: grayscale(50%);
 }
