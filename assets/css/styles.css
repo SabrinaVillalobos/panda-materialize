@@ -1,0 +1,85 @@
+* {
+  font-family: Raleway;
+}
+.header {
+  background-color: #F78E69;
+  height: 240px;
+}
+
+.headertext {
+  color:#fff;
+  text-align: right;
+  font-weight: 600;
+  font-size: 55px;
+  padding-top:80px;
+  padding-right: 56px;
+  margin:0;
+}
+
+.txt {
+  text-align: right;
+  color:#fff;
+  font-size: 18px;
+  padding-right: 56px;
+}
+
+.section-green{
+  height:531px;
+  width:100%;
+  background-color: #ABE188;
+  border:#F78E69 solid 10px;
+  border-left:0;
+  border-right: 0;
+  }
+
+.pinkcont {
+  background-color: #F78E69;
+  padding-top: 50px;
+}
+
+#giantp {
+  margin-bottom:0;
+  padding-top: 55px;
+}
+
+.pandachinese {
+  color:#fff;
+  text-align: center;
+  font-size: 27px;
+  font-weight: 600;
+}
+.textgiantp {
+  color:#fff;
+  text-align: center;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.picturestxt{
+  font-size: 54px;
+  text-align: center;
+  color:#fff;
+  font-weight: 600;
+}
+.red{
+  background-color: red;
+  padding-top: 20px;
+}
+
+.page-footer{
+  background-color: #F78E69;
+  text-align: right;
+  height: 55px;
+  padding-top:0;
+}
+
+.txtfoot{
+  font-size: 18px;
+  padding-right: 22px;
+  padding-top: 8px;
+  font-weight: 500;
+}
+
+.a1,.a2,.a3,.a4 {
+  border: 2px white solid;
+}
