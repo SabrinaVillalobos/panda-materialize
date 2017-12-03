@@ -3,9 +3,8 @@
 }
 .header {
   background-color: #F78E69;
-  height: 240px;
+  padding-bottom: 20px;
 }
-
 .headertext {
   color:#fff;
   text-align: right;
@@ -15,33 +14,28 @@
   padding-right: 56px;
   margin:0;
 }
-
 .txt {
   text-align: right;
   color:#fff;
   font-size: 18px;
   padding-right: 56px;
 }
-
 .section-green{
-  height:531px;
   width:100%;
   background-color: #ABE188;
   border:#F78E69 solid 10px;
   border-left:0;
   border-right: 0;
-  }
-
+  padding-bottom:50px;
+}
 .pinkcont {
   background-color: #F78E69;
   padding-top: 50px;
 }
-
 #giantp {
   margin-bottom:0;
   padding-top: 55px;
 }
-
 .pandachinese {
   color:#fff;
   text-align: center;
@@ -54,7 +48,6 @@
   font-size: 18px;
   font-weight: lighter;
 }
-
 .picturestxt{
   font-size: 54px;
   text-align: center;
@@ -65,33 +58,28 @@
   background-color: red;
   padding-top: 20px;
 }
-
 .page-footer{
   background-color: #F78E69;
   text-align: right;
   height: 55px;
   padding-top:0;
 }
-
 .txtfoot{
   font-size: 18px;
   padding-right: 22px;
   padding-top: 8px;
   font-weight: 500;
 }
-
 .a1,.a2,.a3,.a4 {
   border: 10px white solid;
 }
-
 .greenlilpics {
   background-color: #ABE188;
   margin-bottom: 0;
   margin-bottom: 0;
-  padding-top: 90px;
-
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
-
 .pictxt {
   font-size: 50px;
   color:#fff;
@@ -99,7 +87,10 @@
   font-weight: 600;
   padding-bottom: 20px;
 }
-
 .uno,.dos,.tres{
-  filter: grayscale(50%);
+  filter: grayscale(100%);
+}
+@media (max-width: 1160px) {
+  .a1,.a2,.a3,.a4 {
+  width: 100%;
 }
